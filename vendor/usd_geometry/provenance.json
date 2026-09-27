@@ -1,0 +1,40 @@
+{
+  "origin": "DexRL existing USD-only preflight helpers, migrated 2026-09-27",
+  "changes": [
+    "Resolve asset paths inside DexManip instead of the source workstation absolute directory.",
+    "Preserve the exact private USD/model/cache bytes and validate their existing hashes.",
+    "Remove historical preflight CLI entrypoints and their demo-only import; no SI geometry algorithms changed."
+  ],
+  "files": [
+    {
+      "file": "usd_model27.py",
+      "source_path": "experiments/20260926_h2_sharpa_robust_preflight/scripts/usd_model27.py",
+      "source_sha256": "403dde33cf573264ab079685572056c7ed4613a71484b90334d2f68c4a58fca4",
+      "portable_sha256": "2de87739131e32f49eb145d2281b5be0ce8bb560b8322678dc031835012f3800"
+    },
+    {
+      "file": "usd_geometry27.py",
+      "source_path": "experiments/20260926_h2_sharpa_robust_preflight/scripts/usd_geometry27.py",
+      "source_sha256": "bf37bc145b6be6009e4506f8bb2c446a45cd0a3777b9fab4f7110ababc8fe14c",
+      "portable_sha256": "bf37bc145b6be6009e4506f8bb2c446a45cd0a3777b9fab4f7110ababc8fe14c"
+    },
+    {
+      "file": "audit_collision87.py",
+      "source_path": "experiments/20260926_h2_sharpa_robust_preflight/scripts/audit_collision87.py",
+      "source_sha256": "991a3cb1ac79f25b1d2007d94279762328606f83302ad468d66503d94ad464b7",
+      "portable_sha256": "1799676ac1ee678cee891ff4510fade80cefb9be9758c1bf80b36d8ffd9f4650"
+    },
+    {
+      "file": "cooked_collision89.py",
+      "source_path": "experiments/20260926_h2_sharpa_robust_preflight/scripts/cooked_collision89.py",
+      "source_sha256": "8338c97a211e8eb5ee7b98380e91874bdc3aea405b5f25d5b2a1a2af00b1a4d5",
+      "portable_sha256": "74bae6515b4c9d6fd36d98d1c13a4b45c85590554e1acf74279f42bf4069442c"
+    },
+    {
+      "file": "check_usd_triangles39.py",
+      "source_path": "experiments/20260926_h2_sharpa_robust_preflight/scripts/check_usd_triangles39.py",
+      "source_sha256": "ceca10b0662c076d694d4e5337294b51412634c09062f95804f4403b5ed654ef",
+      "portable_sha256": "de91a303783320e473a5c40facae3b5f0ebf6bbbfcab27733ea62015ecdf4972"
+    }
+  ]
+}

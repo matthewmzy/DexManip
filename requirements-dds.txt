@@ -1,0 +1,6 @@
+# Optional passive recording SDK, matching the audited deployment pin.
+-c experiments/20260927_h2_sharpa_sysid/requirements.txt
+# SDK declares OpenCV; pin a NumPy 1.26-compatible release even though SI does not use cameras.
+opencv-python==4.11.0.86
+cyclonedds==0.10.2
+unitree_sdk2py @ git+https://github.com/unitreerobotics/unitree_sdk2_python.git@e4cd91f051aaa77a70600e3d2bf7f50889db1980

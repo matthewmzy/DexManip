@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "asset_id": "h2_sharpa_si_geometry_20260927",
+  "redistribution": "Private source and derived geometry: transfer outside Git; not included in this public repository.",
+  "files": {
+    "H2_with_sharpa_flat.usd": {
+      "bytes": 56605925,
+      "sha256": "8d1696232cb3b88924312df4f7eaba14317511901fb0102f0de46edc579ec14a"
+    },
+    "model.json": {
+      "bytes": 407815,
+      "sha256": "10f5a450f22be32a91de74f2dd6e487aa67be068adfd3f631aad5b9521fcf8bf"
+    },
+    "geometry.npz": {
+      "bytes": 17282087,
+      "sha256": "d49f9e43f11b8d2559c6de040c1619f1436caf7709c6d65304210c19817901c6"
+    },
+    "cooked89/export_manifest.json": {
+      "bytes": 896,
+      "sha256": "80a0ababc0f6327641185fc36bb0123d3cd51228c5691f0466bc60b4e12dc66e"
+    },
+    "cooked89/results.json": {
+      "bytes": 206394,
+      "sha256": "1f3d7ac73e5fc39bb962980c2b64ffa1dd2f57e9b16f4b8907110443b7422d69"
+    },
+    "cooked89/cooked_shapes.npz": {
+      "bytes": 212490,
+      "sha256": "65afcecb506e32ed95d4e0bfbfccd9d08c4eb48f73a4cdc33dce27d35aeb694c"
+    }
+  }
+}

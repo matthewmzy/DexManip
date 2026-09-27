@@ -1,0 +1,134 @@
+{
+  "source_sha256": "e662ba2430669ecbb08b226f0fe73b0b09ac6c2e9f03c59898aeb217a3cba031",
+  "status": "vendor_prior_not_measurement_of_this_robot",
+  "values": {
+    "SHARPA_JOINTS": [
+      "thumb_CMC_FE",
+      "thumb_CMC_AA",
+      "thumb_MCP_FE",
+      "thumb_MCP_AA",
+      "thumb_IP",
+      "index_MCP_FE",
+      "index_MCP_AA",
+      "index_PIP",
+      "index_DIP",
+      "middle_MCP_FE",
+      "middle_MCP_AA",
+      "middle_PIP",
+      "middle_DIP",
+      "ring_MCP_FE",
+      "ring_MCP_AA",
+      "ring_PIP",
+      "ring_DIP",
+      "pinky_CMC",
+      "pinky_MCP_FE",
+      "pinky_MCP_AA",
+      "pinky_PIP",
+      "pinky_DIP"
+    ],
+    "OFFICIAL_USD_GAINS": {
+      "thumb_CMC_FE": [
+        0.12138,
+        0.004206,
+        0.0032,
+        0.132
+      ],
+      "thumb_CMC_AA": [
+        0.2304,
+        0.0078826,
+        0.0032,
+        0.132
+      ],
+      "thumb_MCP_FE": [
+        0.083078,
+        0.003194,
+        0.00265,
+        0.104
+      ],
+      "thumb_MCP_AA": [
+        0.11557,
+        0.00363,
+        0.00265,
+        0.104
+      ],
+      "thumb_IP": [
+        0.01584,
+        0.000698,
+        0.00061,
+        0.02476
+      ],
+      "MCP_FE": [
+        0.083078,
+        0.003194,
+        0.00265,
+        0.104
+      ],
+      "MCP_AA": [
+        0.11557,
+        0.00363,
+        0.00265,
+        0.104
+      ],
+      "PIP": [
+        0.01584,
+        0.000698,
+        0.00061,
+        0.02476
+      ],
+      "DIP": [
+        0.01578,
+        0.00055,
+        0.00042,
+        0.000418
+      ],
+      "pinky_CMC": [
+        0.02409,
+        0.000685,
+        0.00012,
+        0.013
+      ]
+    },
+    "URDF_LIMITS": {
+      "thumb_CMC_FE": [
+        3.3,
+        11.84076833
+      ],
+      "thumb_CMC_AA": [
+        3.3,
+        11.84076833
+      ],
+      "thumb_MCP_FE": [
+        1.864,
+        16.07692878
+      ],
+      "thumb_MCP_AA": [
+        1.864,
+        16.07692878
+      ],
+      "thumb_IP": [
+        0.638,
+        11.61831603
+      ],
+      "MCP_FE": [
+        1.864,
+        16.07692878
+      ],
+      "MCP_AA": [
+        1.864,
+        16.07692878
+      ],
+      "PIP": [
+        0.638,
+        11.61831603
+      ],
+      "DIP": [
+        0.189369,
+        14.66594768
+      ],
+      "pinky_CMC": [
+        0.5285,
+        35.07416159
+      ]
+    }
+  }
+}

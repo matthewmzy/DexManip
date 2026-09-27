@@ -1,0 +1,4 @@
+-r requirements.txt
+trimesh==4.5.1
+rtree==1.3.0
+matplotlib==3.10.3
